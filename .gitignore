@@ -10,8 +10,9 @@ api/.DS_Store
 # Ignorar arquivos de ambiente (Ex.: .env)
 api/.env
 
-Mobile/node_modules
-Mobile/.env
+mobile/node_modules
+mobile/.env
+mobile/.expo
 
 frontend/node_modules
 frontend/.env
